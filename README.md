@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##IPSUM BELOW
+## Website Contents
 
-Hello how are you? This is a modified file.
-
-New add
+1. index.html
